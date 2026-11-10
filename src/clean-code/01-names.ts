@@ -13,6 +13,7 @@
   // Archivos marcados para borrar - files to delete
   const filesToDelete = filesToEvaluate.map((file) => file.flagged);
 
+  // Malos nombres de clases
   class AbstractUser {}
   class UserMixin {}
   class UserImplementation {}
